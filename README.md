@@ -16,6 +16,12 @@
 
 7. Install *gsutil*, *boto*, *boto3*, *botocore*, *gcs-oauth2-boto-plugin*, *azure-storage*, *azure-common* and *pycryptodome* packages by pip.
 
+## Get started
+
+1. Execute command python main.py in the project folder.
+
+2. Enter the application on localhost:5000. It also support remote visiting.
+
 ## Note
 1. If you want to change to another *Google Cloud Platform Account* or another *Google Cloud Project*, you may need to manually shutdown and restart the web application to renew the environment.
 
